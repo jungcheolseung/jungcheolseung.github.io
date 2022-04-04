@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 정철승</title>
+    <link>https://jungcheolseung.github.io/posts/</link>
+    <description>Recent content in Posts on 정철승</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Tue, 29 Mar 2022 17:45:02 +0900</lastBuildDate><atom:link href="https://jungcheolseung.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 글</title>
+      <link>https://jungcheolseung.github.io/posts/1/</link>
+      <pubDate>Tue, 29 Mar 2022 17:45:02 +0900</pubDate>
+      
+      <guid>https://jungcheolseung.github.io/posts/1/</guid>
+      <description>첫 글 블로그 시작입니다.</description>
+      <content>&lt;h1 id=&#34;첫-글&#34;&gt;첫 글&lt;/h1&gt;
+&lt;p&gt;블로그 시작입니다.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
